@@ -27,18 +27,21 @@ Several treasures and locations in Zork reveal that there used to be a large ari
 
 In each game, there are several light sources the player can pick up and use, among them a battery-powered brass lantern and a pair of candles, which both have a limited lifespan, as well as a torch that never expires. The player must be carrying at least one light source at all times when exploring the dark areas of the games, or else, if they continue navigating through the dark, the player will be caught and devoured by a carnivorous grue, ending the adventure in defeat. The exception to this rule occurs when the player must use a spray can of grue repellent to navigate dark areas where a light source cannot be brought.
 
-Plot
+### Plot
 The original MIT version of Zork (also called Dungeon) combines plot elements from all three of the following games, which were made available for commercial sale.
 
-Zork I: The Great Underground Empire
+### Zork I: 
+The Great Underground Empire
 Main article: Zork I § Gameplay
 The game takes place in the Zork calendar year 948 GUE (although the passage of time is not notable in gameplay). The player steps into the deliberately vague role of an "adventurer". The game begins near a white house in a small, self-contained area. Although the player is given little instruction, the house provides an obvious point of interest.
 
-Zork II: The Wizard of Frobozz
+### Zork II: 
+The Wizard of Frobozz
 Main article: Zork II § Plot
 The player begins in the Barrow from Zork I armed only with the trusty brass lantern and the elvish sword of great antiquity from before. The objective of the game is not initially clear, but the player is pursued throughout by the titular wizard.
 
-Zork III: The Dungeon Master
+### Zork III: 
+The Dungeon Master
 Main article: Zork III § Plot
 The player begins at the bottom of the Endless Stair from Zork II.
 
