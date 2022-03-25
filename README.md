@@ -50,3 +50,8 @@ Zork III is somewhat less of a straightforward treasure hunt than previous insta
 
 ## Will try and collect all the versions in this repo.
 Happily borrowed the above text from wiki mama.
+
+## Commands
+In the Zork games, the player is not limited to verb-noun commands, such as "take lamp", "open mailbox", and so forth. Instead, the parser supports more sophisticated sentences such as "put the lamp and sword in the case", "look under the rug", and "drop all except lantern" .The game understands many common verbs, including "take", "drop", "examine", "attack", "climb", "open", "close", "count", and many more. The games also support commands to the game directly (rather than taking actions within the fictional setting of the game) such as "save" and "restore", "script" and "unscript" (which begin and end a text transcript of the game text), "restart", and "quit".
+
+You could modify the amount of information displayed on screen, in each room, and subsequent return to the same room, by commands "brief," "superbrief" and "verbose." "brief" would give a moderate room or item description on the initial visit, and a bare minimum on subsequent visits, "Superbrief" would only give a room title for each and every visit, while "verbose" would supply "Maximum Verbosity" by giving all available information in each room, or item thereof, or revisit thereafter.
